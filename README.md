@@ -2,6 +2,13 @@
 
 Implementation of the Signed Normalized Cuts algorithm described in [Gallier (2016)](https://arxiv.org/pdf/1601.04692.pdf).
 
+## Sample Output
+![Clusters](sample_clusters.png)
+
+![Heatmap](nmpi_heatmap.png)
+
+## Organization
+
 * `ssc.py` contains the signed normalized cuts implementation
 * `affinities.py` generates an affinity matrix from a recipe dataset, clusters the ingredients, and performs various recipe rating prediction experiments using the clusters as features.
 
