@@ -3,9 +3,22 @@
 Implementation of the Signed Normalized Cuts algorithm described in [Gallier (2016)](https://arxiv.org/pdf/1601.04692.pdf).
 
 ## Sample Output
-![Clusters](sample_clusters.png)
 
-![Heatmap](nmpi_heatmap.png)
+<p align="center">
+  <img src="sample_clusters.png">
+</p>
+
+<p align="center">
+  Figure 1: Sample ingredient clusters
+</p>
+
+<p align="center">
+  <img src="nmpi_heatmap.png">
+</p>
+
+<p align="center">
+  Figure 2: Ingredient affinity matrix computed by pairwise normalized PMI (NPMI) scores
+</p>
 
 ## Organization
 
