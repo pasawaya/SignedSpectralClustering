@@ -2,7 +2,7 @@
 
 Implementation of the Signed Normalized Cuts algorithm described in [Gallier (2016)](https://arxiv.org/pdf/1601.04692.pdf).
 
-## Sample Output
+## Results
 
 <p align="center">
   <img src="sample_clusters.png">
